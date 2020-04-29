@@ -1,0 +1,2 @@
+# MetaMask_Practice_Page
+MetaMaskの練習をするページです
